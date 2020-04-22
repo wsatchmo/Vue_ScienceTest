@@ -1,6 +1,9 @@
 # Vue Science Test
 
-## Project setup
+## Deployment
+This project is deployed on [Github Pages](https://wsatchmo.github.io/Vue_ScienceTest/)
+
+### Project setup
 ```
 npm install
 ```
