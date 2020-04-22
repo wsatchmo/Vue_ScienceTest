@@ -1,7 +1,7 @@
 <template>
     <div>
         <b-nav tabs align="center" style="margin-bottom: 2rem;">
-            <b-nav-item href="window.location"><b-icon-arrow-repeat/> Reset</b-nav-item>
+            <b-nav-item href="/Vue_ScienceTest/"><b-icon-arrow-repeat/> Reset</b-nav-item>
             <b-nav-item disabled>
                 Counter: {{numCorrect}}/{{numTotal}} 
                 <b-icon-award
